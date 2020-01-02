@@ -3,8 +3,25 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I am currently a financial economist at the Federal Deposit Insurance Corporate (FDIC). I also enjoy teaching and am an adjunct professor for Text Mining for Economics and Finance at the University of Maryland in the Robert H. Smith School of Business. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona Graduate School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. I spent some time working alongside central banks through an 8 month visit in Germany at the Deutsche Bundesbank and with a current research project with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various financial companies, including investment funds. Outside of economics and finance, I like learning about natural language processing, innovations in machine learning, Brazilian Jiu Jitsu, and improv comedy.   
+
+Hi there! Nice to e-meet you. I'm Zoe Huang.
+ 
+I have been tailoring my academic studies in data analytics in the hope that one day I will work as a data analyst. I just graduated from Columbia University where my coursework also provides a good opportunity to enhance my machine learning, Natural language processing, data mining and data analytics techniques with R and Python as well as database knowledge such as SQL and Hadoop. Previously, I have worked at Taste Labs as a data scientist to help them build a personalized recommendation engine. Through this experience, I have scripted with SQL to extract large sets of data from the database, worked with the marketing team to make marketing campaign decisions and evaluate marketing effectiveness with data analysis results, and automated the system for the engineering team to implement recommendation engine into the system. 
+
+Outside of coursework and working, I like to learn about natural language processing, participate in hackathons, and practice my technical skills through online projects such as kaggle competitions. I always ask “why” and “what if” when analyzing business pain points, and take initiatives to design solutions with data science tools in the production environment. Through various internship experiences and working projects, I have trained myself to be a data professional with experience in building end-to-end solutions. After years of work in highly collaborative and fast-pased environments, I have also grown as a fast learner, reliable team player, and most importantly, a project manager.
+
+Here are some of my competences:
+
+- Experience working with programming languages: R, python;
+
+- Concentrated on feature engineering, machine learning pipeline, tree-based models
+
+- 2-year experience in a top-tier consulting firm;
+
+- Problem-solving skills;
+
+
 <br>
 <br>
-Download my <a href="https://www.dropbox.com/s/yzu33h38flxfkri/soto-cv.pdf?dl=0" download="Soto, Paul- CV">CV</a><br>
+Download my <a href="https://www.dropbox.com/s/u5sgeja8zy04xa6/Resume-ZoeHuang.pdf?dl=0" download="Zoe Huang - Resume">Resume</a><br>
 <br>

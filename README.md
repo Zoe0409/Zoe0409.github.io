@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2Fzoe0409.github.io%2Fblob%2Fmaster%2FREADME.md)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2Fzoe0409.github.io)
 
 Repository for my personal website.
 
